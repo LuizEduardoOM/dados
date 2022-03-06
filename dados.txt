@@ -1,6 +1,6 @@
-João	sim	sim	pequenas	sim
-Pedro	não	não	grandes	não	
+João	sim	sim	pequenas	sim	
+Pedro	não	não	grandes		não
 Maria	não	sim	pequenas	não
-José	sim	sim	grandes	sim
+José	sim	sim	grandes		sim
 Maria	sim	não	pequenas	sim
-Leila	não	não	grandes	sim
+Leila	não	não	grandes		sim
