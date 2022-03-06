@@ -1,0 +1,6 @@
+João	sim	sim	p	sim
+Pedro	não	não	g	não
+Maria	não	sim	p	não
+José	sim	sim	g	sim
+Maria	sim	não	p	sim
+Leila	não	não	g	sim
