@@ -1,6 +1,6 @@
-sim	0	360	0	313	9	52	0	25	48	0	1
-0	0	350	1	468	10	65	0	33	6	0	1
-0	0	1100	0	829	9	125	0	56	48	0	1
-0	0	3000	0	552	12	76	1	31	60	0	1
-1	0	1000	0	809	12	111	0	24	7	0	1
-
+João	sim	sim	pequenas	sim
+Pedro	não	não	grandes	não	
+Maria	não	sim	pequenas	não
+José	sim	sim	grandes	sim
+Maria	sim	não	pequenas	sim
+Leila	não	não	grandes	sim
