@@ -1,0 +1,6 @@
+João	sim	sim	p	sim	Doente
+Pedro	não	não	g	não	Saudável
+Maria	não	sim	p	não	Saudável
+José	sim	sim	g	sim	Doente
+Maria	sim	não	p	sim	Saudável
+Leila	não	não	g	sim	Doente
